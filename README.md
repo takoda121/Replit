@@ -1,8 +1,3 @@
-[![Music-Bot-With-Filters-v1](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v1&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v1)
-
-<br/>
-
-An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
 
 #### Commands:
 
@@ -57,16 +52,3 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
-## SUPPORT ME
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/navaneethkm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-
-## Credits
-
-[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
